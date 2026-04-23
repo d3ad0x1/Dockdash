@@ -7,9 +7,9 @@ YELLOW='\033[1;33m'
 CYAN='\033[0;36m'
 NC='\033[0m' # reset
 
-# 🔄 Auto-refresh interval (seconds)
+
 REFRESH=5
-MAX_IMAGE_LEN=30  # maximum image name length
+MAX_IMAGE_LEN=30
 
 while true; do
     clear
